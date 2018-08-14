@@ -1,7 +1,7 @@
 # demo1
 
 > A Vue.js project
-
+Vue 轮播图组件
 ## Build Setup
 
 ``` bash
